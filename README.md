@@ -5,3 +5,4 @@
 + [droid at screen](http://droid-at-screen.org/download.html)
 + [adb.exe in Android Studio](http://developer.android.com/intl/vi/tools/help/adb.html)
 + [install genymotion for beginners](http://www.vminstall.com/installing-genymotion-for-beginners/)
++ [driver for Acer Aspire 4745g](http://www.driverscape.com/manufacturers/acer/laptops-desktops/aspire-4745g/20776)
